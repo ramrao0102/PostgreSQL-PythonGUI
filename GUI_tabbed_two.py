@@ -1,6 +1,8 @@
 
 # Ram Rao Code
 # Two Tables Insertion Into Database
+# This can be generalized to allow for full Database Querying and Updating
+
 
 #======================
 # imports
